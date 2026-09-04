@@ -1,7 +1,9 @@
 # Hi, I'm Geoffrey Jheanne
 
 ### aka **Yanji**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yanji-yan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 🎓 **2nd Year Information Technology Student**
 🏫 **Aklan State University**
 💻 **Major in Instructional Systems Technology**
