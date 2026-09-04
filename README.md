@@ -1,4 +1,4 @@
-# Hi, I'm Geoffrey 👋
+# Hi, I'm Geoffrey Jheanne
 
 ### aka **Yanji**
 
@@ -6,7 +6,8 @@
 🏫 **Aklan State University**
 💻 **Major in Instructional Systems Technology**
 
-I'm a beginner in programming and currently learning **Java and Python** while starting my journey into **Front-End Development**.
+I'm currently learning and developing my skills in **Front-End Development**. I'm a beginner in programming. I enjoy building websites, exploring new technologies, and improving my coding skills one project at a time.
+
 
 I enjoy learning by building small projects and experimenting with different technologies.
 
