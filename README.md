@@ -25,7 +25,7 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ---
 
-## 💻 Languages I'm Learning
+## 💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -51,6 +51,12 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ---
 
+## 🎨 UI/UX Tools
+
+![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge\&logo=penpot\&logoColor=white)
+
+---
+
 ## 🌱 Currently Learning
 
 * ☕ Java
@@ -59,6 +65,7 @@ I enjoy learning by building small projects and experimenting with different tec
 * 💻 Front-End Development
 * 🎨 UI/UX
 * 🧩 Problem solving & programming fundamentals
+* Figma
 
 ---
 
