@@ -1,15 +1,18 @@
-# Hi, I'm Geoffrey Jheanne
+<div align="center">
+
+# Hi, I'm Geoffrey Jheanne 👋
 
 ### aka **Yanji**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yanji-yan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=yanji-yan\&color=blueviolet\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 🎓 **2nd Year Information Technology Student**
 🏫 **Aklan State University**
 💻 **Major in Instructional Systems Technology**
 
-I'm currently learning and developing my skills in **Front-End Development**. I'm a beginner in programming. I enjoy building websites, exploring new technologies, and improving my coding skills one project at a time.
+</div>
 
+I'm currently learning and developing my skills in **Front-End Development**. I'm a beginner in programming. I enjoy building websites, exploring new technologies, and improving my coding skills one project at a time.
 
 I enjoy learning by building small projects and experimenting with different technologies.
 
