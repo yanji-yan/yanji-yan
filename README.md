@@ -52,11 +52,11 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ## 🌱 Currently Learning
 
-* ☕ Java fundamentals
-* 🐍 Python fundamentals
+* ☕ Java
+* 🐍 Python
 * 🌐 HTML & CSS
 * 💻 Front-End Development
-* 🎨 Basic UI/UX
+* 🎨 UI/UX
 * 🧩 Problem solving & programming fundamentals
 
 ---
@@ -64,24 +64,8 @@ I enjoy learning by building small projects and experimenting with different tec
 ## 🎯 My Goal
 
 I'm working toward becoming a **Front-End Developer** while building a strong foundation in programming.
-
-> **I'm still learning, but I'm always improving. 🚀**
-
----
-
-## 📊 My Learning Journey
-
-```text
-Programming
-├── Java       🌱 Beginner
-├── Python     🌱 Beginner
-├── HTML       🌱 Learning
-├── CSS        🌱 Learning
-└── Front-End  🌱 Learning
-```
-
----
-
-### 💜 Thanks for visiting!
-
 I'm still at the beginning of my programming journey, so this profile will grow as I learn, build, and improve.
+---
+
+
+
