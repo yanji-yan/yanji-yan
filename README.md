@@ -1,7 +1,7 @@
 # Hi, I'm Geoffrey Jheanne
 
 ### aka **Yanji**
-
+![Profile Views](https://komarev.com/ghpvc/?username=yanji-yan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 🎓 **2nd Year Information Technology Student**
 🏫 **Aklan State University**
 💻 **Major in Instructional Systems Technology**
@@ -55,6 +55,7 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge\&logo=penpot\&logoColor=white)
 
+* Penpot
 ---
 
 ## 🌱 Currently Learning
@@ -65,7 +66,7 @@ I enjoy learning by building small projects and experimenting with different tec
 * 💻 Front-End Development
 * 🎨 UI/UX
 * 🧩 Problem solving & programming fundamentals
-* Figma
+* 🖌️ Figma
 
 ---
 
