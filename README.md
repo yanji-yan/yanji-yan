@@ -76,8 +76,10 @@ I enjoy learning by building small projects and experimenting with different tec
 - 📜 Cisco Networking Academy — *[HTML Essentials]*
 - 📜 Cisco Networking Academy — *[Python Essentials]*
 - 📜 Cisco Networking Academy — *[CSS Essentials]*
-- 📜 Cisco Networking Academy — *[IT Customer Basic]*
+- 📜 Cisco Networking Academy — *[IT Customer Basics]*
 - 📜 Cisco Networking Academy — *[Using Computers and Mobile Devices]*
+- 📜 Cisco Networking Academy — *[Introduction to IOT]*
+
 ---
 ## 🎯 My Goal
 
