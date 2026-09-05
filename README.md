@@ -30,7 +30,7 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ---
 
-## 💻 Languages
+## 🧑‍💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -61,6 +61,7 @@ I enjoy learning by building small projects and experimenting with different tec
 ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge\&logo=penpot\&logoColor=white)
 
 * Penpot
+
 ---
 
 ## 🌱 Currently Learning
@@ -77,9 +78,8 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ## 🎯 My Goal
 
-I'm working toward becoming a **Front-End Developer** while building a strong foundation in programming.
-I'm still at the beginning of my programming journey, so this profile will grow as I learn, build, and improve.
+I'm currently **working on Front-End Development** while continuing to improve my programming skills and knowledge. My goal is to keep building real projects, strengthen my development skills, and grow as an IT professional.
+
+🚀 **Learning, building, and improving one project at a time.**
+
 ---
-
-
-
