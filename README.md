@@ -18,15 +18,15 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 2nd Year Information Technology Student
-* 🏫 Aklan State University
-* 📚 Major in Instructional Systems Technology
-* 🌱 Beginner programmer
-* 💻 Currently learning **Java & Python**
-* 🌐 Learning **Front-End Development**
-* 🎮 Interested in gaming and technology
+* 2nd Year Information Technology Student
+* Aklan State University
+* Major in Instructional Systems Technology
+* Beginner programmer
+* Currently learning **Java & Python**
+* Learning **Front-End Development**
+* Interested in gaming and technology
 
 ---
 
@@ -36,11 +36,6 @@ I enjoy learning by building small projects and experimenting with different tec
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Currently focusing on:**
-
-* ☕ Java
-* 🐍 Python
 
 ---
 
@@ -64,18 +59,26 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-* ☕ Java
-* 🐍 Python
-* 🌐 HTML & CSS
-* 💻 Front-End Development
-* 🎨 UI/UX
-* 🧩 Problem solving & programming fundamentals
-* 🖌️ Figma
+* Java
+* Python
+* HTML & CSS
+* Front-End Development
+* UI/UX
+* Problem solving & programming fundamentals
+* Figma
 
 ---
 
+ ## 🏆 Certifications
+
+- 📜 Cisco Networking Academy — *[HTML Essentials]*
+- 📜 Cisco Networking Academy — *[Python Essentials]*
+- 📜 Cisco Networking Academy — *[CSS Essentials]*
+- 📜 Cisco Networking Academy — *[IT Customer Basic]*
+- 📜 Cisco Networking Academy — *[Using Computers and Mobile Devices]*
+---
 ## 🎯 My Goal
 
 I'm currently **working on Front-End Development** while continuing to improve my programming skills and knowledge. My goal is to keep building real projects, strengthen my development skills, and grow as an IT professional.
