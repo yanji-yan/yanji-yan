@@ -53,9 +53,11 @@ I enjoy learning by building small projects and experimenting with different tec
 
 ## 🎨 UI/UX Tools
 
-![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge\&logo=penpot\&logoColor=white)
+![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 * Penpot
+* Canva
 
 ---
 
@@ -79,6 +81,7 @@ I enjoy learning by building small projects and experimenting with different tec
 - 📜 Cisco Networking Academy — *[IT Customer Basics]*
 - 📜 Cisco Networking Academy — *[Using Computers and Mobile Devices]*
 - 📜 Cisco Networking Academy — *[Introduction to IOT]*
+- 📜 DataCamp — *[Introduction To Java]*
 
 ---
 ## 🎯 My Goal
