@@ -72,18 +72,6 @@ I enjoy learning by building small projects and experimenting with different tec
 * Figma
 
 ---
-
- ## 🏆 Certifications
-
-- 📜 Cisco Networking Academy — *[HTML Essentials]*
-- 📜 Cisco Networking Academy — *[Python Essentials]*
-- 📜 Cisco Networking Academy — *[CSS Essentials]*
-- 📜 Cisco Networking Academy — *[IT Customer Basics]*
-- 📜 Cisco Networking Academy — *[Using Computers and Mobile Devices]*
-- 📜 Cisco Networking Academy — *[Introduction to IOT]*
-- 📜 DataCamp — *[Introduction To Java]*
-
----
 ## 🎯 My Goal
 
 I'm currently **working on Front-End Development** while continuing to improve my programming skills and knowledge. My goal is to keep building real projects, strengthen my development skills, and grow as an IT professional.
