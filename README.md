@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yanji 👋</h1>
 
 <p align="center">
-  <strong>Information Technology Student • Front-End Developer</strong>
+  <strong>Information Technology Student • Aspiring Front-End Developer</strong>
 </p>
 
 <p align="center">
@@ -19,13 +19,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Geoffrey Jheanne**, also known as **Yanji**. I'm currently learning and developing my skills as a **Front-End Developer**. I enjoy building websites, exploring new technologies, and improving my coding skills one project at a time.
+Hi! I'm **Geoffrey Jheanne Dollentas**, also known as **Yanji**. I'm a 2nd Year Information Technology student majoring in Instructional Systems Technology at Aklan State University.
+
+I'm currently learning and developing my skills toward becoming a **Front-End Developer**. I enjoy creating websites, designing interfaces, exploring new technologies, and turning ideas into working projects.
+
+I'm still growing as a programmer, so I learn mostly by building small projects, experimenting with code, and solving problems along the way. Every project gives me an opportunity to learn something new and improve my skills.
+
+Outside of coding, I enjoy gaming, listening to music, and exploring creative ideas. I'm also interested in UI/UX design, especially creating interfaces that are simple, clean, and easy to use.
 
 ### 🎓 Education & Community
 
 * 🎓 Information Technology — Instructional Systems Technology
 * 🏫 Aklan State University
-* 👥 Member of **ASU DEVGUILD**
+* 👥 Member of **ASU DEVELOPER'S GUILD**
 
 ## 💻 Languages
 
