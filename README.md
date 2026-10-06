@@ -64,7 +64,6 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
 * 🎨 UI/UX Design
 * 🧩 Problem Solving & Programming Fundamentals
 
-## 🚀 Working On
 
 ## 🚀 What I'm Working On
 
