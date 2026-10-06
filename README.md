@@ -27,7 +27,7 @@ I'm still growing as a programmer, so I learn mostly by building small projects,
 
 Outside of coding, I enjoy gaming, listening to music, and exploring creative ideas. I'm also interested in UI/UX design, especially creating interfaces that are simple, clean, and easy to use.
 
-### 🎓 Education & Community
+### 🎓 Education & Organization
 
 * 🎓 Information Technology — Instructional Systems Technology
 * 🏫 Aklan State University
@@ -66,4 +66,6 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
 
 ## 🚀 Working On
 
-Improving my skills in **Front-End Development** by building small projects, experimenting with new technologies, and learning through hands-on experience.
+## 🚀 What I'm Working On
+
+I'm improving my skills in **Front-End Development** by building small projects, experimenting with new technologies, and learning through hands-on experience. I'm currently working on creating websites using **HTML, CSS, and JavaScript**, while also exploring **UI/UX design** and learning how to turn ideas and designs into functional, user-friendly interfaces. At the same time, I'm strengthening my programming fundamentals through **Java and Python**, while improving my problem-solving skills through practice and personal projects as I continue working toward becoming a skilled **Front-End Developer**.
