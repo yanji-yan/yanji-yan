@@ -54,7 +54,6 @@ I'm **Geoffrey Jheanne**, also known as **Yanji**. I'm currently learning and de
 
 ## 📚 Currently Learning
 
-* 
 * 💻 Front-End Development
 * 🎨 UI/UX Design
 * 🧩 Problem Solving & Programming Fundamentals
