@@ -32,6 +32,7 @@ I'm **Geoffrey Jheanne**, also known as **Yanji**. I'm currently learning and de
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
@@ -48,15 +49,12 @@ I'm **Geoffrey Jheanne**, also known as **Yanji**. I'm currently learning and de
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/penpot/000000" width="40" alt="Penpot"/>
+  <img src="https://raw.githubusercontent.com/penpot/penpot/main/frontend/src/app/main/assets/images/logo.svg" width="40" alt="Penpot"/>
 </p>
-
 
 ## 📚 Currently Learning
 
-* ☕ Java
-* 🐍 Python
-* 🌐 HTML & CSS
+* 
 * 💻 Front-End Development
 * 🎨 UI/UX Design
 * 🧩 Problem Solving & Programming Fundamentals
