@@ -49,7 +49,7 @@ I'm **Geoffrey Jheanne**, also known as **Yanji**. I'm currently learning and de
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/penpot/penpot/main/frontend/src/app/main/assets/images/logo.svg" width="40" alt="Penpot"/>
+  <img src="https://cdn.simpleicons.org/penpot/7B61FF" width="40" height="40" alt="Penpot"/>
 </p>
 
 ## 📚 Currently Learning
