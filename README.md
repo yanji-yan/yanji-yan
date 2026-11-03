@@ -67,7 +67,7 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
   <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chatgpt.png" width="40" height="40" alt="ChatGPT"/>
   <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" height="40" alt="DeepSeek"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/color.svg" width="40" height="40" alt="Codex"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="40" height="40" alt="Codex"/>
 </p>
 
 ## 💻 Operating Systems
