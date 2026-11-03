@@ -50,7 +50,7 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="40" alt="Sublime Text"/>
+  <img src="https://cdn.simpleicons.org/sublimetext/FF9800" width="40" height="40" alt="Sublime Text"/>
 </p>
 
 ## 🎨 UI/UX Tools
@@ -65,9 +65,9 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
 <p align="left">
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Google Gemini"/>
   <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="ChatGPT"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" height="40" alt="ChatGPT"/>
   <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" alt="DeepSeek"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI Codex"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" height="40" alt="Codex"/>
 </p>
 
 ## 💻 Operating Systems
