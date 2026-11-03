@@ -63,13 +63,12 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
 ## 🤖 AI Companions
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini"/>
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude"/>
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" height="40" alt="ChatGPT"/>
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" height="40" alt="DeepSeek"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" width="40" height="40" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="40" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="40" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" height="40" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="Codex"/>
 </p>
-
 ## 💻 Operating Systems
 
 <p align="left">
