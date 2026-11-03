@@ -74,7 +74,7 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apple.svg" width="40" height="40" alt="Apple" style="filter: invert(1);"/>
+ <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" height="40" alt="Apple"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
 </p>
 
