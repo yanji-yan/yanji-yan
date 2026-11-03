@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yanji 👋</h1>
+# 👋 Hi, I'm Yanji
 
 <p align="center">
   <strong>Information Technology Student • Aspiring Front-End Developer</strong>
@@ -29,9 +29,9 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
 
 ### 🎓 Education & Organization
 
-* 🎓 Information Technology — Instructional Systems Technology
-* 🏫 Aklan State University
-* 👥 Member of **ASU DEVELOPER'S GUILD**
+- 🎓 Information Technology — Instructional Systems Technology
+- 🏫 Aklan State University
+- 👥 Member of **ASU DEVELOPER'S GUILD**
 
 ## 💻 Languages
 
@@ -43,12 +43,14 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
-## 🛠️ Tools
+## 🛠️ Editors & IDEs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="40" alt="Sublime Text"/>
 </p>
 
 ## 🎨 UI/UX Tools
@@ -58,13 +60,32 @@ Outside of coding, I enjoy gaming, listening to music, and exploring creative id
   <img src="https://cdn.simpleicons.org/penpot/7B61FF" width="40" height="40" alt="Penpot"/>
 </p>
 
+## 🤖 AI Companions
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" alt="DeepSeek"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="Codex"/>
+</p>
+
+## 💻 Operating Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" alt="macOS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
+</p>
+
 ## 📚 Currently Learning
 
-* 💻 Front-End Development
-* 🎨 UI/UX Design
-* 🧩 Problem Solving & Programming Fundamentals
-
+- 💻 Front-End Development
+- 🎨 UI/UX Design
+- 🧩 Problem Solving & Programming Fundamentals
 
 ## 🚀 What I'm Working On
 
-I'm improving my skills in **Front-End Development** by building small projects, experimenting with new technologies, and learning through hands-on experience. I'm currently working on creating websites using **HTML, CSS, and JavaScript**, while also exploring **UI/UX design** and learning how to turn ideas and designs into functional, user-friendly interfaces. At the same time, I'm strengthening my programming fundamentals through **Java and Python**, while improving my problem-solving skills through practice and personal projects as I continue working toward becoming a skilled **Front-End Developer**.
+I'm improving my skills in **Front-End Development** by building small projects, experimenting with new technologies, and learning through hands-on experience. I'm currently working on creating websites using **HTML, CSS, and JavaScript**, while also exploring **UI/UX design** and learning how to turn ideas and designs into functional, user-friendly interfaces.
+
+At the same time, I'm strengthening my programming fundamentals through **Java and Python**, while improving my problem-solving skills through practice and personal projects as I continue working toward becoming a skilled **Front-End Developer**.
