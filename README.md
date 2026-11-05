@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yanji
+<h1 align="center">👋 Hi, I'm Yanji</h1>
 
 <p align="center">
   <strong>Information Technology Student • Aspiring Front-End Developer</strong>
